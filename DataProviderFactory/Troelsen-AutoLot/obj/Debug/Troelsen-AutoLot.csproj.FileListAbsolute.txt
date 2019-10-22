@@ -1,0 +1,6 @@
+D:\Programming\projects\ADO.NET_study\Troelsen-AutoLot\Troelsen-AutoLot\obj\Debug\Troelsen-AutoLot.csprojAssemblyReference.cache
+D:\Programming\projects\ADO.NET_study\Troelsen-AutoLot\Troelsen-AutoLot\bin\Debug\Troelsen-AutoLot.exe.config
+D:\Programming\projects\ADO.NET_study\Troelsen-AutoLot\Troelsen-AutoLot\bin\Debug\Troelsen-AutoLot.exe
+D:\Programming\projects\ADO.NET_study\Troelsen-AutoLot\Troelsen-AutoLot\bin\Debug\Troelsen-AutoLot.pdb
+D:\Programming\projects\ADO.NET_study\Troelsen-AutoLot\Troelsen-AutoLot\obj\Debug\Troelsen-AutoLot.exe
+D:\Programming\projects\ADO.NET_study\Troelsen-AutoLot\Troelsen-AutoLot\obj\Debug\Troelsen-AutoLot.pdb
