@@ -24,9 +24,19 @@ namespace AytoLotDataReader
 
                 using (SqlDataReader myDataReader = myCommand.ExecuteReader())
                 {
+                    //while (myDataReader.Read())
+                    //{
+                    //    WriteLine($"-> Make {myDataReader["Make"]},\t PetName {myDataReader["PetName"]},\t Color {myDataReader["Color"]}");
+                    //}
+
                     while (myDataReader.Read())
                     {
-                        WriteLine($"-> Make {myDataReader["Make"]},\t PetName {myDataReader["PetName"]},\t Color {myDataReader["Color"]}");
+                        WriteLine("****Record****");
+                        for (int i = 0; i < myDataReader.FieldCount; i++)
+                        {
+                            WriteLine($"{myDataReader.GetName(i)} = {myDataReader.GetValue(i)}");
+                        }
+                        WriteLine();
                     }
                 }
             }
