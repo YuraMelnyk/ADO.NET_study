@@ -50,7 +50,7 @@ namespace AutoLotDAL.ConnectedLayer
                 {
                     command.ExecuteNonQuery();
                 }
-                catch(SqlException ex)
+                catch (SqlException ex)
                 {
                     Exception error = new Exception("Sorry! That car is on order!", ex);
                     throw error;
@@ -83,7 +83,7 @@ namespace AutoLotDAL.ConnectedLayer
                         Color = (string)dataReader["Color"],
                         Make = (string)dataReader["Make"],
                         PetName = (string)dataReader["PetName"]
-                    }) ;
+                    });
                 }
                 dataReader.Close();
             }
@@ -130,5 +130,5 @@ namespace AutoLotDAL.ConnectedLayer
             }
             return carPetName;
         }
-     }
+    }
 }
