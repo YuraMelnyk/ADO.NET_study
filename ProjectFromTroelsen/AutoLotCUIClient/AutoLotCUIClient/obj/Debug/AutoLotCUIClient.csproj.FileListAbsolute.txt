@@ -1,0 +1,9 @@
+D:\Programming\projects\ADO.NET_study\ProjectFromTroelsen\AutoLotCUIClient\AutoLotCUIClient\obj\Debug\AutoLotCUIClient.csprojAssemblyReference.cache
+D:\Programming\projects\ADO.NET_study\ProjectFromTroelsen\AutoLotCUIClient\AutoLotCUIClient\bin\Debug\AutoLotCUIClient.exe.config
+D:\Programming\projects\ADO.NET_study\ProjectFromTroelsen\AutoLotCUIClient\AutoLotCUIClient\bin\Debug\AutoLotCUIClient.exe
+D:\Programming\projects\ADO.NET_study\ProjectFromTroelsen\AutoLotCUIClient\AutoLotCUIClient\bin\Debug\AutoLotCUIClient.pdb
+D:\Programming\projects\ADO.NET_study\ProjectFromTroelsen\AutoLotCUIClient\AutoLotCUIClient\bin\Debug\AutoLotDAL.dll
+D:\Programming\projects\ADO.NET_study\ProjectFromTroelsen\AutoLotCUIClient\AutoLotCUIClient\bin\Debug\AutoLotDAL.pdb
+D:\Programming\projects\ADO.NET_study\ProjectFromTroelsen\AutoLotCUIClient\AutoLotCUIClient\obj\Debug\AutoLotCUIClient.csproj.CopyComplete
+D:\Programming\projects\ADO.NET_study\ProjectFromTroelsen\AutoLotCUIClient\AutoLotCUIClient\obj\Debug\AutoLotCUIClient.exe
+D:\Programming\projects\ADO.NET_study\ProjectFromTroelsen\AutoLotCUIClient\AutoLotCUIClient\obj\Debug\AutoLotCUIClient.pdb
