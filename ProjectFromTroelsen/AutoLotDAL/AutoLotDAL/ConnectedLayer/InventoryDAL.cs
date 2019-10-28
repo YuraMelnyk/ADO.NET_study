@@ -130,5 +130,44 @@ namespace AutoLotDAL.ConnectedLayer
             }
             return carPetName;
         }
+
+        public void ProcessCreditRisk(bool throwEx, int custId)
+        {
+            string fName = string.Empty;
+            string lName = string.Empty;
+            SqlCommand cmdSelect = new SqlCommand(string.Format("Select * from Custumer where custId = {0}", custId), _sqlConnection);
+            using (SqlDataReader dr = cmdSelect.ExecuteReader())
+            {
+                if (dr.HasRows)
+                {
+                    dr.Read();
+                    fName = (string)dr["FirstName"];
+                    lName = (string)dr["LastName"];
+                }
+                else return;
+
+                SqlCommand cmdRemove = new SqlCommand(string.Format("Delete from Custumer where custId = {0}", custId), _sqlConnection);
+                SqlCommand cmdInsert = new SqlCommand(string.Format("Insert into CreditRisk" + "(CustId, FirstName, LastName)" + 
+                    " '{0}','{1}','{2}'", custId, fName, lName), _sqlConnection);
+                SqlTransaction tx = null;
+                try
+                {
+                    tx = _sqlConnection.BeginTransaction();
+                    cmdInsert.Transaction = tx;
+                    cmdRemove.Transaction = tx;
+
+                    if (throwEx)
+                    {
+                        throw new Exception("Sorry! Database error...Transaction feild.");
+                    }
+                    tx.Commit();
+                }
+                catch( Exception ex)
+                {
+                    Console.WriteLine(ex.Message);
+                    tx.Rollback();
+                }
+            }
+        }
     }
 }
