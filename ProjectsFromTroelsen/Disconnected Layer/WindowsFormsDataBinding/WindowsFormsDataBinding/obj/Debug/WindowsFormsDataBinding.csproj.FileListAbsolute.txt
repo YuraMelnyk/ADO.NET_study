@@ -1,0 +1,9 @@
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\WindowsFormsDataBinding\WindowsFormsDataBinding\bin\Debug\WindowsFormsDataBinding.exe.config
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\WindowsFormsDataBinding\WindowsFormsDataBinding\bin\Debug\WindowsFormsDataBinding.exe
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\WindowsFormsDataBinding\WindowsFormsDataBinding\bin\Debug\WindowsFormsDataBinding.pdb
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\WindowsFormsDataBinding\WindowsFormsDataBinding\obj\Debug\WindowsFormsDataBinding.csprojAssemblyReference.cache
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\WindowsFormsDataBinding\WindowsFormsDataBinding\obj\Debug\WindowsFormsDataBinding.MainForm.resources
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\WindowsFormsDataBinding\WindowsFormsDataBinding\obj\Debug\WindowsFormsDataBinding.Properties.Resources.resources
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\WindowsFormsDataBinding\WindowsFormsDataBinding\obj\Debug\WindowsFormsDataBinding.csproj.GenerateResource.cache
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\WindowsFormsDataBinding\WindowsFormsDataBinding\obj\Debug\WindowsFormsDataBinding.exe
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\WindowsFormsDataBinding\WindowsFormsDataBinding\obj\Debug\WindowsFormsDataBinding.pdb
