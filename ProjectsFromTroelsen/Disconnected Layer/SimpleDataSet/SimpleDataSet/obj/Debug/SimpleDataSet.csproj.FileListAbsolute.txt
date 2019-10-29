@@ -1,0 +1,6 @@
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\SimpleDataSet\SimpleDataSet\bin\Debug\SimpleDataSet.exe.config
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\SimpleDataSet\SimpleDataSet\bin\Debug\SimpleDataSet.exe
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\SimpleDataSet\SimpleDataSet\bin\Debug\SimpleDataSet.pdb
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\SimpleDataSet\SimpleDataSet\obj\Debug\SimpleDataSet.csprojAssemblyReference.cache
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\SimpleDataSet\SimpleDataSet\obj\Debug\SimpleDataSet.exe
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\SimpleDataSet\SimpleDataSet\obj\Debug\SimpleDataSet.pdb
