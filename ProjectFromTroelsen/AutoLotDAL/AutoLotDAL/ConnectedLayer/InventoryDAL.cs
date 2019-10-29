@@ -135,8 +135,8 @@ namespace AutoLotDAL.ConnectedLayer
         {
             string fName = string.Empty;
             string lName = string.Empty;
-            SqlCommand cmdSelect = new SqlCommand(string.Format("Select * from Custumer where custId = {0}", custId), _sqlConnection);
-            using (SqlDataReader dr = cmdSelect.ExecuteReader())
+            SqlCommand cmdSelect = new SqlCommand(string.Format("Select * from Custumers where custId = {0}", custId), _sqlConnection);
+            using (var dr = cmdSelect.ExecuteReader())
             {
                 if (dr.HasRows)
                 {
@@ -146,7 +146,7 @@ namespace AutoLotDAL.ConnectedLayer
                 }
                 else return;
 
-                SqlCommand cmdRemove = new SqlCommand(string.Format("Delete from Custumer where custId = {0}", custId), _sqlConnection);
+                SqlCommand cmdRemove = new SqlCommand(string.Format("Delete from Custumers where custId = {0}", custId), _sqlConnection);
                 SqlCommand cmdInsert = new SqlCommand(string.Format("Insert into CreditRisk" + "(CustId, FirstName, LastName)" + 
                     " '{0}','{1}','{2}'", custId, fName, lName), _sqlConnection);
                 SqlTransaction tx = null;
@@ -165,7 +165,7 @@ namespace AutoLotDAL.ConnectedLayer
                 catch( Exception ex)
                 {
                     Console.WriteLine(ex.Message);
-                    tx.Rollback();
+                    tx?.Rollback();
                 }
             }
         }

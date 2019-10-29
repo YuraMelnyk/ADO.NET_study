@@ -1,0 +1,9 @@
+D:\Programming\projects\ADO.NET_study\ProjectFromTroelsen\AutoLotTransaction\AutoLotTransaction\bin\Debug\AutoLotTransaction.exe.config
+D:\Programming\projects\ADO.NET_study\ProjectFromTroelsen\AutoLotTransaction\AutoLotTransaction\bin\Debug\AutoLotTransaction.exe
+D:\Programming\projects\ADO.NET_study\ProjectFromTroelsen\AutoLotTransaction\AutoLotTransaction\bin\Debug\AutoLotTransaction.pdb
+D:\Programming\projects\ADO.NET_study\ProjectFromTroelsen\AutoLotTransaction\AutoLotTransaction\bin\Debug\AutoLotDAL.dll
+D:\Programming\projects\ADO.NET_study\ProjectFromTroelsen\AutoLotTransaction\AutoLotTransaction\bin\Debug\AutoLotDAL.pdb
+D:\Programming\projects\ADO.NET_study\ProjectFromTroelsen\AutoLotTransaction\AutoLotTransaction\obj\Debug\AutoLotTransaction.csprojAssemblyReference.cache
+D:\Programming\projects\ADO.NET_study\ProjectFromTroelsen\AutoLotTransaction\AutoLotTransaction\obj\Debug\AutoLotTransaction.csproj.CopyComplete
+D:\Programming\projects\ADO.NET_study\ProjectFromTroelsen\AutoLotTransaction\AutoLotTransaction\obj\Debug\AutoLotTransaction.exe
+D:\Programming\projects\ADO.NET_study\ProjectFromTroelsen\AutoLotTransaction\AutoLotTransaction\obj\Debug\AutoLotTransaction.pdb
