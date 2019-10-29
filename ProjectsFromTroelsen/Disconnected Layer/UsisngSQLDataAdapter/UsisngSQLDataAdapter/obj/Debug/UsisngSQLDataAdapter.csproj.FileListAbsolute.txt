@@ -1,0 +1,6 @@
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\UsisngSQLDataAdapter\UsisngSQLDataAdapter\bin\Debug\UsisngSQLDataAdapter.exe.config
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\UsisngSQLDataAdapter\UsisngSQLDataAdapter\bin\Debug\UsisngSQLDataAdapter.exe
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\UsisngSQLDataAdapter\UsisngSQLDataAdapter\bin\Debug\UsisngSQLDataAdapter.pdb
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\UsisngSQLDataAdapter\UsisngSQLDataAdapter\obj\Debug\UsisngSQLDataAdapter.csprojAssemblyReference.cache
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\UsisngSQLDataAdapter\UsisngSQLDataAdapter\obj\Debug\UsisngSQLDataAdapter.exe
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\UsisngSQLDataAdapter\UsisngSQLDataAdapter\obj\Debug\UsisngSQLDataAdapter.pdb
