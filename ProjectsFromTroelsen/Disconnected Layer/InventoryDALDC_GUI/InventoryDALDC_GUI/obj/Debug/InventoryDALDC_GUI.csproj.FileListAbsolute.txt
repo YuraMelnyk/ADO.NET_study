@@ -1,0 +1,12 @@
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\InventoryDALDC_GUI\InventoryDALDC_GUI\bin\Debug\InventoryDALDC_GUI.exe.config
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\InventoryDALDC_GUI\InventoryDALDC_GUI\bin\Debug\InventoryDALDC_GUI.exe
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\InventoryDALDC_GUI\InventoryDALDC_GUI\bin\Debug\InventoryDALDC_GUI.pdb
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\InventoryDALDC_GUI\InventoryDALDC_GUI\bin\Debug\AutoLotDAL.dll
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\InventoryDALDC_GUI\InventoryDALDC_GUI\bin\Debug\AutoLotDAL.pdb
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\InventoryDALDC_GUI\InventoryDALDC_GUI\obj\Debug\InventoryDALDC_GUI.csprojAssemblyReference.cache
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\InventoryDALDC_GUI\InventoryDALDC_GUI\obj\Debug\InventoryDALDC_GUI.MainForm.resources
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\InventoryDALDC_GUI\InventoryDALDC_GUI\obj\Debug\InventoryDALDC_GUI.Properties.Resources.resources
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\InventoryDALDC_GUI\InventoryDALDC_GUI\obj\Debug\InventoryDALDC_GUI.csproj.GenerateResource.cache
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\InventoryDALDC_GUI\InventoryDALDC_GUI\obj\Debug\InventoryDALDC_GUI.csproj.CopyComplete
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\InventoryDALDC_GUI\InventoryDALDC_GUI\obj\Debug\InventoryDALDC_GUI.exe
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\InventoryDALDC_GUI\InventoryDALDC_GUI\obj\Debug\InventoryDALDC_GUI.pdb

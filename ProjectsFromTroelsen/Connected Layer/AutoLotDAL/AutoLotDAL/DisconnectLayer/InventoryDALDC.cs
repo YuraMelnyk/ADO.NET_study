@@ -8,7 +8,7 @@ using System.Data;
 
 namespace AutoLotDAL.DisconnectLayer
 {
-    class InventoryDALDC
+    public class InventoryDALDC
     {
         private string _connectionString;
         private SqlDataAdapter _adapter = null;
