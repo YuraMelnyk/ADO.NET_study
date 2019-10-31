@@ -1,0 +1,12 @@
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\MultitabledDataSetApp\MultitabledDataSetApp\bin\Debug\MultitabledDataSetApp.exe.config
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\MultitabledDataSetApp\MultitabledDataSetApp\bin\Debug\MultitabledDataSetApp.exe
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\MultitabledDataSetApp\MultitabledDataSetApp\bin\Debug\MultitabledDataSetApp.pdb
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\MultitabledDataSetApp\MultitabledDataSetApp\bin\Debug\AutoLotDAL.dll
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\MultitabledDataSetApp\MultitabledDataSetApp\bin\Debug\AutoLotDAL.pdb
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\MultitabledDataSetApp\MultitabledDataSetApp\obj\Debug\MultitabledDataSetApp.csprojAssemblyReference.cache
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\MultitabledDataSetApp\MultitabledDataSetApp\obj\Debug\MultitabledDataSetApp.MainForm.resources
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\MultitabledDataSetApp\MultitabledDataSetApp\obj\Debug\MultitabledDataSetApp.Properties.Resources.resources
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\MultitabledDataSetApp\MultitabledDataSetApp\obj\Debug\MultitabledDataSetApp.csproj.GenerateResource.cache
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\MultitabledDataSetApp\MultitabledDataSetApp\obj\Debug\MultitabledDataSetApp.csproj.CopyComplete
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\MultitabledDataSetApp\MultitabledDataSetApp\obj\Debug\MultitabledDataSetApp.exe
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\MultitabledDataSetApp\MultitabledDataSetApp\obj\Debug\MultitabledDataSetApp.pdb
