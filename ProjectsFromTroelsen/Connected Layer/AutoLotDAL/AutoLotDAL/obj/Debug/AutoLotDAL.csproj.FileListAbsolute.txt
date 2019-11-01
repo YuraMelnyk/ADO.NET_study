@@ -7,3 +7,4 @@ D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Connected Layer\AutoL
 D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Connected Layer\AutoLotDAL\AutoLotDAL\obj\Debug\AutoLotDAL.csprojAssemblyReference.cache
 D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Connected Layer\AutoLotDAL\AutoLotDAL\obj\Debug\AutoLotDAL.dll
 D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Connected Layer\AutoLotDAL\AutoLotDAL\obj\Debug\AutoLotDAL.pdb
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Connected Layer\AutoLotDAL\AutoLotDAL\bin\Debug\AutoLotDAL.dll.config
