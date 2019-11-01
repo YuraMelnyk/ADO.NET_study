@@ -1,0 +1,9 @@
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\GridViewDataDesigner\GridViewDataDesigner\bin\Debug\GridViewDataDesigner.exe.config
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\GridViewDataDesigner\GridViewDataDesigner\bin\Debug\GridViewDataDesigner.exe
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\GridViewDataDesigner\GridViewDataDesigner\bin\Debug\GridViewDataDesigner.pdb
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\GridViewDataDesigner\GridViewDataDesigner\obj\Debug\GridViewDataDesigner.csprojAssemblyReference.cache
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\GridViewDataDesigner\GridViewDataDesigner\obj\Debug\GridViewDataDesigner.MainForm.resources
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\GridViewDataDesigner\GridViewDataDesigner\obj\Debug\GridViewDataDesigner.Properties.Resources.resources
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\GridViewDataDesigner\GridViewDataDesigner\obj\Debug\GridViewDataDesigner.csproj.GenerateResource.cache
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\GridViewDataDesigner\GridViewDataDesigner\obj\Debug\GridViewDataDesigner.exe
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\Disconnected Layer\GridViewDataDesigner\GridViewDataDesigner\obj\Debug\GridViewDataDesigner.pdb
