@@ -1,0 +1,11 @@
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\EntityFramework\AutoLotConsoleApp\AutoLotConsoleApp\bin\Debug\AutoLotConsoleApp.exe.config
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\EntityFramework\AutoLotConsoleApp\AutoLotConsoleApp\bin\Debug\AutoLotConsoleApp.exe
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\EntityFramework\AutoLotConsoleApp\AutoLotConsoleApp\bin\Debug\AutoLotConsoleApp.pdb
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\EntityFramework\AutoLotConsoleApp\AutoLotConsoleApp\bin\Debug\EntityFramework.dll
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\EntityFramework\AutoLotConsoleApp\AutoLotConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\EntityFramework\AutoLotConsoleApp\AutoLotConsoleApp\bin\Debug\EntityFramework.xml
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\EntityFramework\AutoLotConsoleApp\AutoLotConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\EntityFramework\AutoLotConsoleApp\AutoLotConsoleApp\obj\Debug\AutoLotConsoleApp.csprojAssemblyReference.cache
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\EntityFramework\AutoLotConsoleApp\AutoLotConsoleApp\obj\Debug\AutoLotConsoleApp.csproj.CopyComplete
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\EntityFramework\AutoLotConsoleApp\AutoLotConsoleApp\obj\Debug\AutoLotConsoleApp.exe
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\EntityFramework\AutoLotConsoleApp\AutoLotConsoleApp\obj\Debug\AutoLotConsoleApp.pdb
