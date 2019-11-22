@@ -3,6 +3,7 @@ namespace AutoLotDAL_4._0.EF
     using System;
     using System.Data.Entity;
     using System.Linq;
+    using AutoLotDAL_4._0.Models;
 
     public class AutoLotEntities : DbContext
     {
@@ -13,7 +14,7 @@ namespace AutoLotDAL_4._0.EF
         // If you wish to target a different database and/or database provider, modify the 'AutoLotEntities' 
         // connection string in the application configuration file.
         public AutoLotEntities()
-            : base("name=AutoLotEntities")
+            : base("name=AutoLotConnection")
         {
         }
 
@@ -21,6 +22,12 @@ namespace AutoLotDAL_4._0.EF
         // on configuring and using a Code First model, see http://go.microsoft.com/fwlink/?LinkId=390109.
 
         // public virtual DbSet<MyEntity> MyEntities { get; set; }
+        public virtual DbSet<CreditRisk> CreditRisks { get; set; }
+        public virtual DbSet<Customer> Customers { get; set; }
+        public virtual DbSet<Inventory> Inventory { get; set; }
+        public virtual DbSet<Order> Orders { get; set; }
+
+
     }
 
     //public class MyEntity
