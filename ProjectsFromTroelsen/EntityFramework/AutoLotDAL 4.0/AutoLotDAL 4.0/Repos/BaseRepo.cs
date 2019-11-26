@@ -9,9 +9,9 @@ using AutoLotDAL_4._0.EF;
 
 namespace AutoLotDAL_4._0.Repos
 {
-    public abstract class BaseRepo<T> where T: class,new()
+    public abstract class BaseRepo<T> :IDisposable where T: class,new()
     {
-        protected AutoLotEntities Context { get; } = new AutoLotEntities();
+       /*protected*/ public AutoLotEntities Context { get; } = new AutoLotEntities();
 
         bool disposed = false;
         public void Dispose()
