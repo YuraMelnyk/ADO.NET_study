@@ -55,6 +55,16 @@
   <ItemGroup>
     <Compile Include="EF\AutoLotEntities.cs" />
     <Compile Include="EF\DataInitializer.cs" />
+    <Compile Include="Interception\ConsoleWriterInterception.cs" />
+    <Compile Include="Migrations\201911261945292_InitialCreate.cs" />
+    <Compile Include="Migrations\201911261945292_InitialCreate.designer.cs">
+      <DependentUpon>201911261945292_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201911270809189_TimeStamps.cs" />
+    <Compile Include="Migrations\201911270809189_TimeStamps.designer.cs">
+      <DependentUpon>201911270809189_TimeStamps.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\CreditRisk.cs" />
     <Compile Include="Models\Customer.cs" />
     <Compile Include="Models\Inventory.cs" />
@@ -71,7 +81,14 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201911261945292_InitialCreate.resx">
+      <DependentUpon>201911261945292_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201911270809189_TimeStamps.resx">
+      <DependentUpon>201911270809189_TimeStamps.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>

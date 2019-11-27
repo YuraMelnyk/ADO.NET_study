@@ -21,6 +21,8 @@ namespace AutoLotDAL_4._0.Models
         [StringLength(50)]
         public string PetName { get; set; }
 
+        [Timestamp]
+        public byte[] Timestamp { get; set; }
         public virtual ICollection<Order> Orders { get; set; } = new HashSet<Order>();
 
         public override string ToString()

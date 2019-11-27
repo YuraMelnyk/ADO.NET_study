@@ -4,9 +4,13 @@ namespace AutoLotDAL_4._0.EF
     using System.Data.Entity;
     using System.Linq;
     using AutoLotDAL_4._0.Models;
+    using System.Data.Entity.Infrastructure;
+    using System.Data.Entity.Infrastructure.Interception;
+    using AutoLotDAL_4._0.Interception;
 
     public class AutoLotEntities : DbContext
     {
+        static readonly DatabaseLogger databaseLogger = new DatabaseLogger("sqllog.txt", true);
         // Your context has been configured to use a 'AutoLotEntities' connection string from your application's 
         // configuration file (App.config or Web.config). By default, this connection string targets the 
         // 'AutoLotDAL_4._0.EF.AutoLotEntities' database on your LocalDb instance. 
@@ -16,6 +20,9 @@ namespace AutoLotDAL_4._0.EF
         public AutoLotEntities()
             : base("name=AutoLotConnection")
         {
+            //DbInterception.Add(new ConsoleWriterInterception());
+            databaseLogger.StartLogging();
+            DbInterception.Add(databaseLogger);
         }
 
         // Add a DbSet for each entity type that you want to include in your model. For more information 
@@ -27,6 +34,12 @@ namespace AutoLotDAL_4._0.EF
         public virtual DbSet<Inventory> Inventory { get; set; }
         public virtual DbSet<Order> Orders { get; set; }
 
+        protected override void Dispose(bool disposing)
+        {
+            DbInterception.Remove(databaseLogger);
+            databaseLogger.StopLogging();
+            base.Dispose(disposing);
+        }
 
     }
 

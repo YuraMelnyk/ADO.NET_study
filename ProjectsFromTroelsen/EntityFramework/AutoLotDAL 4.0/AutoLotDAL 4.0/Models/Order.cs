@@ -19,5 +19,8 @@ namespace AutoLotDAL_4._0.Models
         public virtual  Customer Customer { get; set; }
         [ForeignKey("CarId")]
         public virtual Inventory Car { get; set; }
+
+        [Timestamp]
+        public byte[] Timestamp { get; set; }
     }
 }

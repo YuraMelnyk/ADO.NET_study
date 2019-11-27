@@ -9,3 +9,6 @@ D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\EntityFramework\AutoL
 D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\EntityFramework\AutoLotDAL 4.0\AutoLotDAL 4.0\obj\Debug\AutoLotDAL 4.0.csproj.CopyComplete
 D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\EntityFramework\AutoLotDAL 4.0\AutoLotDAL 4.0\obj\Debug\AutoLotDAL 4.0.dll
 D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\EntityFramework\AutoLotDAL 4.0\AutoLotDAL 4.0\obj\Debug\AutoLotDAL 4.0.pdb
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\EntityFramework\AutoLotDAL 4.0\AutoLotDAL 4.0\obj\Debug\AutoLotDAL_4._0.Migrations.InitialCreate.resources
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\EntityFramework\AutoLotDAL 4.0\AutoLotDAL 4.0\obj\Debug\AutoLotDAL 4.0.csproj.GenerateResource.cache
+D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\EntityFramework\AutoLotDAL 4.0\AutoLotDAL 4.0\obj\Debug\AutoLotDAL_4._0.Migrations.TimeStamps.resources

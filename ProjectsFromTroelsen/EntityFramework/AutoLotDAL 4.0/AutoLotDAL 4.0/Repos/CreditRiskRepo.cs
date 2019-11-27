@@ -17,14 +17,14 @@ namespace AutoLotDAL_4._0.Repos
             Table = Context.CreditRisks;
         }
 
-        public int Delete(int id)
+        public int Delete(int id, byte[] timeStamp)
         {
-            Context.Entry(new CreditRisk() { CustId = id }).State = EntityState.Deleted;
+            Context.Entry(new CreditRisk() { CustId = id, Timestamp = timeStamp }).State = EntityState.Deleted;
             return SaveChanges();
         }
-        public Task<int> DeleteAsync(int id)
+        public Task<int> DeleteAsync(int id, byte[] timeStamp)
         {
-            Context.Entry(new CreditRisk() { CustId = id }).State = EntityState.Deleted;
+            Context.Entry(new CreditRisk() { CustId = id, Timestamp = timeStamp }).State = EntityState.Deleted;
             return SaveChangesAsync();
         }
     }

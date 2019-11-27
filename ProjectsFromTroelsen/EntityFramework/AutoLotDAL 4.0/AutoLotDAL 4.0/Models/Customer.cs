@@ -16,6 +16,8 @@ namespace AutoLotDAL_4._0.Models
         public string FirstName { get; set; }
         [StringLength(50)]
         public string LastName { get; set; }
+        [Timestamp]
+        public byte[] Timestamp { get; set; }
         [NotMapped]
         public string FullName => FirstName + " " + LastName;
         public virtual ICollection<Order> Orders { get; set; } = new HashSet<Order>();
