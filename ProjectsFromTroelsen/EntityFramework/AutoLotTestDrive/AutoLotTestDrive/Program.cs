@@ -104,6 +104,12 @@ namespace AutoLotTestDrive
                     LastName = customer.LastName
                 };
                 context.CreditRisks.Add(creditRisk);
+                var crediRiskDupe = new CreditRisk()
+                {
+                    FirstName = customer.FirstName,
+                    LastName = customer.LastName
+                };
+                context.CreditRisks.Add(crediRiskDupe);
                 try
                 {
                     context.SaveChanges();

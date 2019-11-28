@@ -5,7 +5,6 @@ D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\EntityFramework\AutoL
 D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\EntityFramework\AutoLotDAL 4.0\AutoLotDAL 4.0\bin\Debug\EntityFramework.SqlServer.dll
 D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\EntityFramework\AutoLotDAL 4.0\AutoLotDAL 4.0\bin\Debug\EntityFramework.xml
 D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\EntityFramework\AutoLotDAL 4.0\AutoLotDAL 4.0\bin\Debug\EntityFramework.SqlServer.xml
-D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\EntityFramework\AutoLotDAL 4.0\AutoLotDAL 4.0\obj\Debug\AutoLotDAL 4.0.csprojAssemblyReference.cache
 D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\EntityFramework\AutoLotDAL 4.0\AutoLotDAL 4.0\obj\Debug\AutoLotDAL 4.0.csproj.CopyComplete
 D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\EntityFramework\AutoLotDAL 4.0\AutoLotDAL 4.0\obj\Debug\AutoLotDAL 4.0.dll
 D:\Programming\projects\ADO.NET_study\ProjectsFromTroelsen\EntityFramework\AutoLotDAL 4.0\AutoLotDAL 4.0\obj\Debug\AutoLotDAL 4.0.pdb
